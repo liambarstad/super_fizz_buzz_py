@@ -54,4 +54,4 @@ class SuperFizzBuzzTest(unittest.TestCase):
         assert response[6] == "Super"
         assert response[14] == "FizzBuzz"
         assert response[20] == "SuperFizz"
-        assert respnse[34] == "SuperBuzz"
+        assert response[34] == "SuperBuzz"
